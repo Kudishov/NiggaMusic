@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NiggaMusic</string>
+    <integer name="com_vk_sdk_AppId">5676640</integer>
+</resources>
